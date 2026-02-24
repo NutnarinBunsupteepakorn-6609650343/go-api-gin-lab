@@ -10,7 +10,7 @@ This project follows a **Layered Architecture** (Handler → Service → Reposit
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/go-api-gin-lab.git
+git clone [https://github.com/<your-username>/go-api-gin-lab.git](https://github.com/NutnarinBunsupteepakorn-6609650343/go-api-gin-lab.git)
 cd go-api-gin-lab
 ```
 
